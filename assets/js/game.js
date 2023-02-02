@@ -19,8 +19,7 @@ let questions = [
     answer: 1
   },
   {
-    question:
-      question: "Câu hỏi 2?",
+    question:"Câu hỏi 2?",
     choice1: "Đáp án 1",
     choice2: "Đáp án 2",
     choice3: "Đáp án 3",
