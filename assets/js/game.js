@@ -11,11 +11,11 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "Câu hỏi ?",
-    choice1: "Đáp án đúng",
-    choice2: "Đáp án sai",
-    choice3: "Đáp án sai",
-    choice4: "Đáp án sai",
+    question: "Question",
+    choice1: "Correct",
+    choice2: "Wrong",
+    choice3: "Wrong",
+    choice4: "Wrong",
     answer: 1
   },
   {
