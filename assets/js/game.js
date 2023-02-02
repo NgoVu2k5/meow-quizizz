@@ -11,27 +11,27 @@ let availableQuesions = [];
 
 let questions = [
   {
-    question: "Câu hỏi 1?",
-    choice1: "Đáp án 1",
-    choice2: "Đáp án 2",
-    choice3: "Đáp án 3",
-    choice4: "Đáp án 4",
+    question: "Câu hỏi ?",
+    choice1: "Đáp án đúng",
+    choice2: "Đáp án sai",
+    choice3: "Đáp án sai",
+    choice4: "Đáp án sai",
     answer: 1
   },
   {
-    question:"Câu hỏi 2?",
-    choice1: "Đáp án 1",
-    choice2: "Đáp án 2",
-    choice3: "Đáp án 3",
-    choice4: "Đáp án 4",
+    question:"Câu hỏi ?",
+    choice1: "Đáp án sai",
+    choice2: "Đáp án sai",
+    choice3: "Đáp án đúng",
+    choice4: "Đáp án sai",
     answer: 3
   },
   {
-    question: "Câu hỏi 3?",
-    choice1: "Đáp án 1",
-    choice2: "Đáp án 2",
-    choice3: "Đáp án 3",
-    choice4: "Đáp án 4",
+    question: "Câu hỏi ?",
+    choice1: "Đáp án sai",
+    choice2: "Đáp án sai",
+    choice3: "Đáp án sai",
+    choice4: "Đáp án đúng",
     answer: 4
   }
 ];
